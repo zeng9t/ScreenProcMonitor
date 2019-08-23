@@ -1,7 +1,7 @@
 # ScreenProcMonitor
 
 ## Description
-You can use this shell to monitor you program run in screen, in case you program in screen crashed unexcepted or finished.
+You can use this shell to monitor you program run in screen(always the program in Linux/Unix), in case you program in screen crashed unexcepted or finished.
 Once you program in screen exited, the monitor process will restart you program automatically.
 
 ## How to use
