@@ -23,7 +23,7 @@ screen_1;0;python test.py
 ```
 
 ## Note
-You can use & in shell environment(after command, [./ScreenProcMonitor.sh monitor.txt 10s &]) to run the monitor at backgroud to monitor multi-process, this will seems like a fake multi-thread.
-
-Exit:
-To fully stop the multi-monitor, you can use kill-monitor.sh to kill all the monitor process.
+- You can use "screen -ls" in terminal to see the screen information.
+- You can use & in shell environment ( after command, [./ScreenProcMonitor.sh monitor.txt 10s &] ) to run the monitor at backgroud to monitor multi-process, this will seems like a fake multi-thread.
+- Exit:
+To fully stop the single-monitor or multi-monitor, you can use kill-monitor.sh to kill all the monitor process.
