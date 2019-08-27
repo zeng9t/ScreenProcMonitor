@@ -13,7 +13,7 @@ Once you program in screen exited, the monitor process will restart you program 
 
 ```
 screen_1;0;python test.py
-//$session;window;command
+//$session;window;command(do not add this line in your file)
 ```
 - $time is the time interval between twice monitor check.
 
